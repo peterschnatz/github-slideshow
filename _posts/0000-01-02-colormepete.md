@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Never let the truth get in the way of a good story.
 Use the left arrow to go back
